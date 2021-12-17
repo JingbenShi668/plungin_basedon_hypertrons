@@ -1,0 +1,578 @@
+2021-09-27 20:19:26,374 INFO 35817 [event-agent] Going to load
+2021-09-27 20:19:26,375 INFO 35817 [sched-agent] Going to load
+2021-09-27 20:19:26,376 INFO 35817 [installation-agent] Going to load
+2021-09-27 20:19:26,369 INFO 35817 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:19:26,381 INFO 35817 [egg:core] dump config after load, 5ms
+2021-09-27 20:19:26,427 INFO 35817 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:19:26,427 INFO 35817 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:19:26,428 INFO 35817 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:19:26,428 INFO 35817 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:19:26,428 INFO 35817 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:19:26,428 INFO 35817 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:19:26,428 INFO 35817 [egg-watcher:agent] watcher start success
+2021-09-27 20:19:26,442 INFO 35817 [egg:core] dump config after ready, 7ms
+2021-09-27 20:19:32,922 INFO 35817 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:19:32,923 INFO 35817 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:19:32,924 INFO 35817 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:19:32,938 INFO 35817 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:19:32,941 INFO 35817 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:19:32,941 INFO 35817 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:19:32,830 INFO 35817 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33822123,"size":64,"blocks":0,"atimeMs":1632745172817.581,"mtimeMs":1632745172817.581,"ctimeMs":1632745172817.581,"birthtimeMs":1632745172817.581,"atime":"2021-09-27T12:19:32.818Z","mtime":"2021-09-27T12:19:32.818Z","ctime":"2021-09-27T12:19:32.818Z","birthtime":"2021-09-27T12:19:32.818Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-09-27 20:20:54,357 INFO 35958 [event-agent] Going to load
+2021-09-27 20:20:54,359 INFO 35958 [sched-agent] Going to load
+2021-09-27 20:20:54,359 INFO 35958 [installation-agent] Going to load
+2021-09-27 20:20:54,353 INFO 35958 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:20:54,365 INFO 35958 [egg:core] dump config after load, 5ms
+2021-09-27 20:20:54,409 INFO 35958 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:20:54,409 INFO 35958 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:20:54,409 INFO 35958 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:20:54,410 INFO 35958 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:20:54,410 INFO 35958 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:20:54,410 INFO 35958 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:20:54,410 INFO 35958 [egg-watcher:agent] watcher start success
+2021-09-27 20:20:54,427 INFO 35958 [egg:core] dump config after ready, 5ms
+2021-09-27 20:20:55,926 INFO 35958 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:20:55,927 INFO 35958 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:20:55,927 INFO 35958 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:20:55,940 INFO 35958 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:20:55,940 INFO 35958 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:20:55,940 INFO 35958 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:20:55,941 INFO 35958 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:20:55,941 INFO 35958 [installation-agent] Start to send platform init event, id=1
+2021-09-27 20:22:36,027 INFO 36000 [event-agent] Going to load
+2021-09-27 20:22:36,028 INFO 36000 [sched-agent] Going to load
+2021-09-27 20:22:36,029 INFO 36000 [installation-agent] Going to load
+2021-09-27 20:22:36,023 INFO 36000 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:22:36,034 INFO 36000 [egg:core] dump config after load, 5ms
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:22:36,078 INFO 36000 [egg-watcher:agent] watcher start success
+2021-09-27 20:22:36,092 INFO 36000 [egg:core] dump config after ready, 6ms
+2021-09-27 20:22:37,628 INFO 36000 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:22:37,628 INFO 36000 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:22:37,629 INFO 36000 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:22:37,645 INFO 36000 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:22:37,645 INFO 36000 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:22:37,645 INFO 36000 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:22:37,645 INFO 36000 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:27:32,036 INFO 36053 [event-agent] Going to load
+2021-09-27 20:27:32,037 INFO 36053 [sched-agent] Going to load
+2021-09-27 20:27:32,037 INFO 36053 [installation-agent] Going to load
+2021-09-27 20:27:32,031 INFO 36053 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:27:32,043 INFO 36053 [egg:core] dump config after load, 5ms
+2021-09-27 20:27:32,089 INFO 36053 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:27:32,089 INFO 36053 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:27:32,090 INFO 36053 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:27:32,090 INFO 36053 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:27:32,090 INFO 36053 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:27:32,090 INFO 36053 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:27:32,090 INFO 36053 [egg-watcher:agent] watcher start success
+2021-09-27 20:27:32,109 INFO 36053 [egg:core] dump config after ready, 6ms
+2021-09-27 20:27:36,476 INFO 36053 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:27:36,476 INFO 36053 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:27:36,476 INFO 36053 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:27:36,490 INFO 36053 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:27:36,491 INFO 36053 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:27:36,491 INFO 36053 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:27:36,491 INFO 36053 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:31:09,356 INFO 36085 [event-agent] Going to load
+2021-09-27 20:31:09,357 INFO 36085 [sched-agent] Going to load
+2021-09-27 20:31:09,358 INFO 36085 [installation-agent] Going to load
+2021-09-27 20:31:09,352 INFO 36085 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:31:09,363 INFO 36085 [egg:core] dump config after load, 5ms
+2021-09-27 20:31:09,410 INFO 36085 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:31:09,411 INFO 36085 [egg-watcher:agent] watcher start success
+2021-09-27 20:31:09,424 INFO 36085 [egg:core] dump config after ready, 6ms
+2021-09-27 20:31:10,916 INFO 36085 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:31:10,916 INFO 36085 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:31:10,916 INFO 36085 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:31:10,930 INFO 36085 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:31:10,930 INFO 36085 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:31:10,930 INFO 36085 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:33:40,898 INFO 36126 [event-agent] Going to load
+2021-09-27 20:33:40,900 INFO 36126 [sched-agent] Going to load
+2021-09-27 20:33:40,900 INFO 36126 [installation-agent] Going to load
+2021-09-27 20:33:40,893 INFO 36126 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:33:40,908 INFO 36126 [egg:core] dump config after load, 7ms
+2021-09-27 20:33:40,980 INFO 36126 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:33:40,980 INFO 36126 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:33:40,982 INFO 36126 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:33:40,982 INFO 36126 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:33:40,982 INFO 36126 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:33:40,982 INFO 36126 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:33:40,983 INFO 36126 [egg-watcher:agent] watcher start success
+2021-09-27 20:33:41,003 INFO 36126 [egg:core] dump config after ready, 7ms
+2021-09-27 20:33:42,606 INFO 36126 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:33:42,606 INFO 36126 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:33:42,606 INFO 36126 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:33:42,621 INFO 36126 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:33:42,621 INFO 36126 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:33:42,621 INFO 36126 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:33:42,621 INFO 36126 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:36:01,353 INFO 36193 [event-agent] Going to load
+2021-09-27 20:36:01,354 INFO 36193 [sched-agent] Going to load
+2021-09-27 20:36:01,354 INFO 36193 [installation-agent] Going to load
+2021-09-27 20:36:01,349 INFO 36193 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:36:01,359 INFO 36193 [egg:core] dump config after load, 4ms
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:36:01,400 INFO 36193 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:36:01,401 INFO 36193 [egg-watcher:agent] watcher start success
+2021-09-27 20:36:01,415 INFO 36193 [egg:core] dump config after ready, 6ms
+2021-09-27 20:36:02,824 INFO 36193 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:36:02,824 INFO 36193 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:36:02,824 INFO 36193 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:36:02,836 INFO 36193 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:36:02,836 INFO 36193 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:36:02,836 INFO 36193 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:36:02,837 INFO 36193 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:38:46,880 INFO 36254 [event-agent] Going to load
+2021-09-27 20:38:46,881 INFO 36254 [sched-agent] Going to load
+2021-09-27 20:38:46,881 INFO 36254 [installation-agent] Going to load
+2021-09-27 20:38:46,876 INFO 36254 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:38:46,886 INFO 36254 [egg:core] dump config after load, 4ms
+2021-09-27 20:38:46,926 INFO 36254 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:38:46,926 INFO 36254 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:38:46,926 INFO 36254 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:38:46,926 INFO 36254 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:38:46,926 INFO 36254 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:38:46,927 INFO 36254 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:38:46,927 INFO 36254 [egg-watcher:agent] watcher start success
+2021-09-27 20:38:46,936 INFO 36254 [egg:core] dump config after ready, 4ms
+2021-09-27 20:38:48,106 INFO 36254 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:38:48,106 INFO 36254 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:38:48,106 INFO 36254 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:38:48,118 INFO 36254 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:38:48,118 INFO 36254 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:38:48,118 INFO 36254 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:38:48,118 INFO 36254 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:45:51,532 INFO 36349 [event-agent] Going to load
+2021-09-27 20:45:51,533 INFO 36349 [sched-agent] Going to load
+2021-09-27 20:45:51,534 INFO 36349 [installation-agent] Going to load
+2021-09-27 20:45:51,528 INFO 36349 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:45:51,539 INFO 36349 [egg:core] dump config after load, 5ms
+2021-09-27 20:45:51,581 INFO 36349 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:45:51,581 INFO 36349 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:45:51,581 INFO 36349 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:45:51,581 INFO 36349 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:45:51,582 INFO 36349 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:45:51,582 INFO 36349 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:45:51,582 INFO 36349 [egg-watcher:agent] watcher start success
+2021-09-27 20:45:51,600 INFO 36349 [egg:core] dump config after ready, 6ms
+2021-09-27 20:45:53,187 INFO 36349 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:45:53,187 INFO 36349 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:45:53,188 INFO 36349 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:45:53,205 INFO 36349 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:45:53,205 INFO 36349 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:45:53,206 INFO 36349 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:45:53,206 INFO 36349 [installation-agent] Start to send platform init event, id=0
+2021-09-27 20:50:36,184 INFO 36386 [event-agent] Going to load
+2021-09-27 20:50:36,185 INFO 36386 [sched-agent] Going to load
+2021-09-27 20:50:36,185 INFO 36386 [installation-agent] Going to load
+2021-09-27 20:50:36,179 INFO 36386 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 20:50:36,190 INFO 36386 [egg:core] dump config after load, 4ms
+2021-09-27 20:50:36,244 INFO 36386 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 20:50:36,244 INFO 36386 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 20:50:36,245 INFO 36386 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 20:50:36,245 INFO 36386 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 20:50:36,245 INFO 36386 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 20:50:36,245 INFO 36386 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 20:50:36,245 INFO 36386 [egg-watcher:agent] watcher start success
+2021-09-27 20:50:36,260 INFO 36386 [egg:core] dump config after ready, 6ms
+2021-09-27 20:50:38,217 INFO 36386 [event-agent] Bot ready, start to run onReady.
+2021-09-27 20:50:38,218 INFO 36386 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 20:50:38,218 INFO 36386 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 20:50:38,235 INFO 36386 [event-agent] Bot start, start to run onStart.
+2021-09-27 20:50:38,235 INFO 36386 [sched-agent] Bot start, start to run onStart.
+2021-09-27 20:50:38,235 INFO 36386 [installation-agent] Bot start, start to run onStart.
+2021-09-27 20:50:38,236 INFO 36386 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:01:48,128 INFO 36386 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":92,"blocks":8,"atimeMs":1632747708066.9343,"mtimeMs":1632747708074.6892,"ctimeMs":1632747708074.6892,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:01:48.067Z","mtime":"2021-09-27T13:01:48.075Z","ctime":"2021-09-27T13:01:48.075Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:01:48,130 INFO 36386 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:01:48,336 WARN 36386 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:01:51,228 INFO 36386 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:01:51,228 INFO 36386 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:01:51,229 INFO 36386 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:01:51,243 INFO 36386 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:01:51,243 INFO 36386 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:01:51,244 INFO 36386 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:01:51,244 INFO 36386 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:02:04,757 WARN 36386 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:02:04,556 INFO 36386 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1326,"blocks":8,"atimeMs":1632747709130.5652,"mtimeMs":1632747724494.402,"ctimeMs":1632747724494.402,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:01:49.131Z","mtime":"2021-09-27T13:02:04.494Z","ctime":"2021-09-27T13:02:04.494Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:02:04,556 INFO 36386 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:02:06,312 INFO 36386 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:02:06,312 INFO 36386 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:02:06,312 INFO 36386 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:02:06,327 INFO 36386 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:02:06,327 INFO 36386 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:02:06,328 INFO 36386 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:02:06,328 INFO 36386 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:14:59,084 INFO 36546 [event-agent] Going to load
+2021-09-27 21:14:59,085 INFO 36546 [sched-agent] Going to load
+2021-09-27 21:14:59,085 INFO 36546 [installation-agent] Going to load
+2021-09-27 21:14:59,078 INFO 36546 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 21:14:59,092 INFO 36546 [egg:core] dump config after load, 5ms
+2021-09-27 21:14:59,152 INFO 36546 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 21:14:59,152 INFO 36546 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 21:14:59,152 INFO 36546 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 21:14:59,152 INFO 36546 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 21:14:59,152 INFO 36546 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 21:14:59,153 INFO 36546 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 21:14:59,153 INFO 36546 [egg-watcher:agent] watcher start success
+2021-09-27 21:14:59,171 INFO 36546 [egg:core] dump config after ready, 6ms
+2021-09-27 21:15:00,879 INFO 36546 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:15:00,879 INFO 36546 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:15:00,880 INFO 36546 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:15:00,896 INFO 36546 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:15:00,897 INFO 36546 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:15:00,897 INFO 36546 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:15:00,897 INFO 36546 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:21:01,714 WARN 36546 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 21:21:01,509 INFO 36546 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:21:01,512 INFO 36546 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1393,"blocks":8,"atimeMs":1632747726277.5535,"mtimeMs":1632748861231.6096,"ctimeMs":1632748861231.6096,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:02:06.278Z","mtime":"2021-09-27T13:21:01.232Z","ctime":"2021-09-27T13:21:01.232Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:21:03,543 INFO 36546 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:03,543 INFO 36546 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:03,543 INFO 36546 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:03,557 INFO 36546 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:21:03,558 INFO 36546 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:21:03,558 INFO 36546 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:21:03,558 INFO 36546 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:21:18,718 INFO 36597 [event-agent] Going to load
+2021-09-27 21:21:18,720 INFO 36597 [sched-agent] Going to load
+2021-09-27 21:21:18,721 INFO 36597 [installation-agent] Going to load
+2021-09-27 21:21:18,713 INFO 36597 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 21:21:18,729 INFO 36597 [egg:core] dump config after load, 7ms
+2021-09-27 21:21:18,791 INFO 36597 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 21:21:18,791 INFO 36597 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 21:21:18,792 INFO 36597 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 21:21:18,792 INFO 36597 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 21:21:18,792 INFO 36597 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 21:21:18,792 INFO 36597 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 21:21:18,792 INFO 36597 [egg-watcher:agent] watcher start success
+2021-09-27 21:21:18,807 INFO 36597 [egg:core] dump config after ready, 6ms
+2021-09-27 21:21:20,362 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:20,362 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:20,363 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:21:20,377 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:21:20,377 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:21:20,377 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:21:20,377 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:29:06,567 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:29:06,359 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19457,"blocks":40,"atimeMs":1632724845722.7065,"mtimeMs":1632749346295.957,"ctimeMs":1632749346295.957,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T06:40:45.723Z","mtime":"2021-09-27T13:29:06.296Z","ctime":"2021-09-27T13:29:06.296Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:29:06,361 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:29:13,136 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:29:13,136 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:29:13,136 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:29:13,151 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:29:13,151 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:29:13,151 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:29:13,151 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:30:50,126 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:30:49,922 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19456,"blocks":40,"atimeMs":1632749369424.9478,"mtimeMs":1632749449860.9612,"ctimeMs":1632749449860.9612,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:29:29.425Z","mtime":"2021-09-27T13:30:49.861Z","ctime":"2021-09-27T13:30:49.861Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:30:49,923 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:30:56,701 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:30:56,701 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:30:56,701 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:30:56,725 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:30:56,726 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:30:56,726 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:30:56,727 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:33:42,211 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19728,"blocks":40,"atimeMs":1632749467497.6006,"mtimeMs":1632749622150.002,"ctimeMs":1632749622150.002,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:31:07.498Z","mtime":"2021-09-27T13:33:42.150Z","ctime":"2021-09-27T13:33:42.150Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:33:42,213 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:33:42,414 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:34:00,140 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:33:59,937 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19456,"blocks":40,"atimeMs":1632749639866.8835,"mtimeMs":1632749639875.1296,"ctimeMs":1632749639875.1296,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:33:59.867Z","mtime":"2021-09-27T13:33:59.875Z","ctime":"2021-09-27T13:33:59.875Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:33:59,938 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:34:02,152 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:34:02,152 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:34:02,152 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:34:02,165 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:34:02,166 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:34:02,166 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:34:02,166 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:34:22,800 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:34:22,594 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19728,"blocks":40,"atimeMs":1632749641430.8572,"mtimeMs":1632749661981.7905,"ctimeMs":1632749661981.7905,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:34:01.431Z","mtime":"2021-09-27T13:34:21.982Z","ctime":"2021-09-27T13:34:21.982Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:34:22,594 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:35:16,855 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:35:16,653 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19456,"blocks":40,"atimeMs":1632749669534.744,"mtimeMs":1632749715338.6475,"ctimeMs":1632749715338.6475,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:34:29.535Z","mtime":"2021-09-27T13:35:15.339Z","ctime":"2021-09-27T13:35:15.339Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:35:16,654 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:35:18,714 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:18,714 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:18,714 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:18,726 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:35:18,726 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:35:18,726 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:35:18,726 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:35:42,158 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:35:41,953 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1396,"blocks":8,"atimeMs":1632748862260.094,"mtimeMs":1632749741891.0017,"ctimeMs":1632749741891.0017,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:21:02.260Z","mtime":"2021-09-27T13:35:41.891Z","ctime":"2021-09-27T13:35:41.891Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:35:41,954 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:35:44,039 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:44,039 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:44,039 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:35:44,054 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:35:44,055 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:35:44,055 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:35:44,055 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:36:06,719 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:36:06,513 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1435,"blocks":8,"atimeMs":1632749743383.0417,"mtimeMs":1632749766452.5137,"ctimeMs":1632749766452.5137,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:35:43.383Z","mtime":"2021-09-27T13:36:06.453Z","ctime":"2021-09-27T13:36:06.453Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:36:06,514 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:36:08,371 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:36:08,371 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:36:08,371 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:36:08,383 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:36:08,383 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:36:08,383 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:36:08,383 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:37:10,216 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 21:37:10,012 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:37:10,013 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1393,"blocks":8,"atimeMs":1632749767540.8164,"mtimeMs":1632749829950.4158,"ctimeMs":1632749829950.4158,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:36:07.541Z","mtime":"2021-09-27T13:37:09.950Z","ctime":"2021-09-27T13:37:09.950Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:37:11,819 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:37:11,819 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:37:11,819 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:37:11,832 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:37:11,832 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:37:11,832 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:37:11,832 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:37:36,958 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19655,"blocks":40,"atimeMs":1632749719858.8276,"mtimeMs":1632749856892.3076,"ctimeMs":1632749856892.3076,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:35:19.859Z","mtime":"2021-09-27T13:37:36.892Z","ctime":"2021-09-27T13:37:36.892Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:37:36,958 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:37:37,162 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:37:57,054 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19599,"blocks":40,"atimeMs":1632749876772.509,"mtimeMs":1632749876787.6543,"ctimeMs":1632749876787.6543,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:37:56.773Z","mtime":"2021-09-27T13:37:56.788Z","ctime":"2021-09-27T13:37:56.788Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:37:57,054 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:37:57,256 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:38:03,175 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:03,175 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:03,175 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:03,190 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:38:03,190 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:38:03,190 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:38:03,190 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:38:03,764 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 21:38:03,561 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19638,"blocks":40,"atimeMs":1632749882057.7156,"mtimeMs":1632749883550.9507,"ctimeMs":1632749883550.9507,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:38:02.058Z","mtime":"2021-09-27T13:38:03.551Z","ctime":"2021-09-27T13:38:03.551Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:38:03,561 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:38:08,572 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:08,572 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:08,572 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:38:08,587 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:38:08,587 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:38:08,587 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:38:08,587 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:40:36,946 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:40:36,741 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1406,"blocks":8,"atimeMs":1632749831290.1257,"mtimeMs":1632750036680.0515,"ctimeMs":1632750036680.0515,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:37:11.290Z","mtime":"2021-09-27T13:40:36.680Z","ctime":"2021-09-27T13:40:36.680Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:40:36,741 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:40:38,865 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:38,866 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:38,866 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:38,888 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:40:38,888 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:40:38,888 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:40:38,888 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:40:56,014 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:40:55,812 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1394,"blocks":8,"atimeMs":1632750037744.6904,"mtimeMs":1632750055242.9177,"ctimeMs":1632750055242.9177,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:40:37.745Z","mtime":"2021-09-27T13:40:55.243Z","ctime":"2021-09-27T13:40:55.243Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:40:55,813 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:40:58,054 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:58,055 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:58,055 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:40:58,072 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:40:58,072 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:40:58,073 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:40:58,073 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:41:38,327 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:41:38,124 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1443,"blocks":8,"atimeMs":1632750056431.7778,"mtimeMs":1632750098062.3376,"ctimeMs":1632750098062.3376,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:40:56.432Z","mtime":"2021-09-27T13:41:38.062Z","ctime":"2021-09-27T13:41:38.062Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:41:38,124 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:41:40,053 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:40,053 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:40,053 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:40,066 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:41:40,066 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:41:40,066 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:41:40,066 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:41:41,718 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 21:41:41,515 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:41:41,515 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1449,"blocks":8,"atimeMs":1632750099142.3354,"mtimeMs":1632750101503.929,"ctimeMs":1632750101503.929,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:41:39.142Z","mtime":"2021-09-27T13:41:41.504Z","ctime":"2021-09-27T13:41:41.504Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:41:43,444 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:43,444 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:43,444 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:41:43,457 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:41:43,457 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:41:43,457 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:41:43,457 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:42:07,308 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:42:07,104 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1502,"blocks":8,"atimeMs":1632750103537.0881,"mtimeMs":1632750127042.5737,"ctimeMs":1632750127042.5737,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:41:43.537Z","mtime":"2021-09-27T13:42:07.043Z","ctime":"2021-09-27T13:42:07.043Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:42:07,105 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:42:08,979 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:42:08,979 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:42:08,980 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:42:08,991 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:42:08,991 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:42:08,991 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:42:08,991 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 21:43:52,008 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 21:43:51,804 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1543,"blocks":8,"atimeMs":1632750128841.2217,"mtimeMs":1632750231743.1147,"ctimeMs":1632750231743.1147,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:42:08.841Z","mtime":"2021-09-27T13:43:51.743Z","ctime":"2021-09-27T13:43:51.743Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 21:43:51,805 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 21:43:53,798 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 21:43:53,798 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 21:43:53,798 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 21:43:53,810 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 21:43:53,810 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 21:43:53,810 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 21:43:53,811 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:02:27,966 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/im-manager/IMManager.ts change
+2021-09-27 22:02:27,760 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/im-manager/IMManager.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:02:27,762 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/im-manager/IMManager.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765449,"size":2733,"blocks":8,"atimeMs":1632724845726.888,"mtimeMs":1632751347700.2454,"ctimeMs":1632751347700.2454,"birthtimeMs":1632724822284.3308,"atime":"2021-09-27T06:40:45.727Z","mtime":"2021-09-27T14:02:27.700Z","ctime":"2021-09-27T14:02:27.700Z","birthtime":"2021-09-27T06:40:22.284Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:02:33,357 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:02:33,357 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:02:33,357 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:02:33,369 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:02:33,370 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:02:33,370 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:02:33,370 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:26:40,045 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 22:26:39,842 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:26:39,843 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1528,"blocks":8,"atimeMs":1632750233592.8667,"mtimeMs":1632752799781.107,"ctimeMs":1632752799781.107,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T13:43:53.593Z","mtime":"2021-09-27T14:26:39.781Z","ctime":"2021-09-27T14:26:39.781Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:26:42,189 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:26:42,189 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:26:42,189 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:26:42,199 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:26:42,199 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:26:42,199 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:26:42,199 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:30:59,757 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts change
+2021-09-27 22:30:59,557 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:30:59,557 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19746,"blocks":40,"atimeMs":1632749885031.4,"mtimeMs":1632753059495.567,"ctimeMs":1632753059495.567,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T13:38:05.031Z","mtime":"2021-09-27T14:30:59.496Z","ctime":"2021-09-27T14:30:59.496Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:31:15,308 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts change
+2021-09-27 22:31:15,107 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:31:15,107 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19638,"blocks":40,"atimeMs":1632753074989.0469,"mtimeMs":1632753074995.1516,"ctimeMs":1632753074995.1516,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:31:14.989Z","mtime":"2021-09-27T14:31:14.995Z","ctime":"2021-09-27T14:31:14.995Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:31:16,612 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:31:16,612 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:31:16,612 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:31:16,621 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:31:16,621 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:31:16,622 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:31:16,622 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:32:22,947 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 22:32:22,746 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1529,"blocks":8,"atimeMs":1632752801819.6304,"mtimeMs":1632753142579.0066,"ctimeMs":1632753142579.0066,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:26:41.820Z","mtime":"2021-09-27T14:32:22.579Z","ctime":"2021-09-27T14:32:22.579Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:32:22,747 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:32:24,242 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:32:24,242 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:32:24,242 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:32:24,253 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:32:24,253 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:32:24,253 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:32:24,253 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:32:59,076 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 22:32:58,874 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:32:58,875 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1593,"blocks":8,"atimeMs":1632753143596.3762,"mtimeMs":1632753178813.8342,"ctimeMs":1632753178813.8342,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:32:23.596Z","mtime":"2021-09-27T14:32:58.814Z","ctime":"2021-09-27T14:32:58.814Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:33:00,378 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:33:00,378 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:33:00,378 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:33:00,393 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:33:00,393 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:33:00,394 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:33:00,394 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:34:27,802 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua change
+2021-09-27 22:34:27,596 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:34:27,596 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1528,"blocks":8,"atimeMs":1632753180062.111,"mtimeMs":1632753267410.3003,"ctimeMs":1632753267410.3003,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:33:00.062Z","mtime":"2021-09-27T14:34:27.410Z","ctime":"2021-09-27T14:34:27.410Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:34:29,258 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:34:29,258 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:34:29,258 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:34:29,268 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:34:29,268 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:34:29,268 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:34:29,268 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:38:53,592 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 22:38:53,388 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19746,"blocks":40,"atimeMs":1632753076609.1968,"mtimeMs":1632753533327.5938,"ctimeMs":1632753533327.5938,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:31:16.609Z","mtime":"2021-09-27T14:38:53.328Z","ctime":"2021-09-27T14:38:53.328Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:38:53,388 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:38:58,278 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 22:38:58,077 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19740,"blocks":40,"atimeMs":1632753534566.654,"mtimeMs":1632753538066.4233,"ctimeMs":1632753538066.4233,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:38:54.567Z","mtime":"2021-09-27T14:38:58.066Z","ctime":"2021-09-27T14:38:58.066Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:38:58,077 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:39:20,466 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 22:39:20,264 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19725,"blocks":40,"atimeMs":1632753539314.6301,"mtimeMs":1632753560196.8853,"ctimeMs":1632753560196.8853,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:38:59.315Z","mtime":"2021-09-27T14:39:20.197Z","ctime":"2021-09-27T14:39:20.197Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:39:20,264 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:39:23,827 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 22:39:23,626 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19642,"blocks":40,"atimeMs":1632753561472.1716,"mtimeMs":1632753563615.7725,"ctimeMs":1632753563615.7725,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:39:21.472Z","mtime":"2021-09-27T14:39:23.616Z","ctime":"2021-09-27T14:39:23.616Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:39:23,627 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:39:24,417 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:24,417 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:24,417 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:24,429 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:39:24,429 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:39:24,429 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:39:24,429 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:39:29,691 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:39:29,691 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:39:29,691 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:39:29,691 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:39:29,699 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:29,699 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:29,699 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:33,504 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~ rename
+2021-09-27 22:39:33,303 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33765529,"size":19638,"blocks":40,"atimeMs":1632753573287.9795,"mtimeMs":1632753573294.516,"ctimeMs":1632753573294.516,"birthtimeMs":1632724822313.7727,"atime":"2021-09-27T14:39:33.288Z","mtime":"2021-09-27T14:39:33.295Z","ctime":"2021-09-27T14:39:33.295Z","birthtime":"2021-09-27T06:40:22.314Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:39:33,303 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:39:34,824 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:34,824 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:34,824 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:39:34,840 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:39:34,840 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:39:34,840 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:39:34,840 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:40:30,993 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 22:40:30,786 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1574,"blocks":8,"atimeMs":1632753268590.526,"mtimeMs":1632753630725.5022,"ctimeMs":1632753630725.5022,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:34:28.591Z","mtime":"2021-09-27T14:40:30.726Z","ctime":"2021-09-27T14:40:30.726Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:40:30,788 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:40:32,348 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:32,348 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:32,348 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:32,358 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:40:32,358 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:40:32,358 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:40:32,358 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:40:46,132 WARN 36597 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 22:40:45,931 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1636,"blocks":8,"atimeMs":1632753631777.6348,"mtimeMs":1632753645869.182,"ctimeMs":1632753645869.182,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:40:31.778Z","mtime":"2021-09-27T14:40:45.869Z","ctime":"2021-09-27T14:40:45.869Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:40:45,931 INFO 36597 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:40:47,465 INFO 36597 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:47,465 INFO 36597 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:47,465 INFO 36597 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:40:47,476 INFO 36597 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:40:47,476 INFO 36597 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:40:47,476 INFO 36597 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:40:47,476 INFO 36597 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:42:05,044 INFO 37214 [event-agent] Going to load
+2021-09-27 22:42:05,045 INFO 37214 [sched-agent] Going to load
+2021-09-27 22:42:05,045 INFO 37214 [installation-agent] Going to load
+2021-09-27 22:42:05,040 INFO 37214 [egg:logger] init all loggers with options: {"dir":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/logs/hypertrons","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hypertrons-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-27 22:42:05,050 INFO 37214 [egg:core] dump config after load, 4ms
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: ["/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy","/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"]
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app"
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/config"
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks"
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/mocks_proxy"
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher] Start watching: "/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app.js"
+2021-09-27 22:42:05,092 INFO 37214 [egg-watcher:agent] watcher start success
+2021-09-27 22:42:05,114 INFO 37214 [egg:core] dump config after ready, 4ms
+2021-09-27 22:42:06,483 INFO 37214 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:42:06,483 INFO 37214 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:42:06,484 INFO 37214 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:42:06,496 INFO 37214 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:42:06,496 INFO 37214 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:42:06,496 INFO 37214 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:42:06,496 INFO 37214 [installation-agent] Start to send platform init event, id=0
+2021-09-27 22:43:56,052 INFO 37214 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33826254,"size":1656,"blocks":8,"atimeMs":1632753646932.576,"mtimeMs":1632753835989.1626,"ctimeMs":1632753835989.1626,"birthtimeMs":1632747708066.9343,"atime":"2021-09-27T14:40:46.933Z","mtime":"2021-09-27T14:43:55.989Z","ctime":"2021-09-27T14:43:55.989Z","birthtime":"2021-09-27T13:01:48.067Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-27 22:43:56,054 INFO 37214 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~","remove":true,"isDirectory":false,"isFile":false}
+2021-09-27 22:43:56,255 WARN 37214 [agent:development] reload worker because /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/component/translation/index.lua~ rename
+2021-09-27 22:43:57,694 INFO 37214 [event-agent] Bot ready, start to run onReady.
+2021-09-27 22:43:57,694 INFO 37214 [sched-agent] Bot ready, start to run onReady.
+2021-09-27 22:43:57,694 INFO 37214 [installation-agent] Bot ready, start to run onReady.
+2021-09-27 22:43:57,705 INFO 37214 [event-agent] Bot start, start to run onStart.
+2021-09-27 22:43:57,706 INFO 37214 [sched-agent] Bot start, start to run onStart.
+2021-09-27 22:43:57,706 INFO 37214 [installation-agent] Bot start, start to run onStart.
+2021-09-27 22:43:57,706 INFO 37214 [installation-agent] Start to send platform init event, id=0

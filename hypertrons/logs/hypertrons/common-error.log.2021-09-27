@@ -1,0 +1,154 @@
+2021-09-27 20:20:55,999 ERROR 35959 nodejs.unhandledRejectionError: ./repo_configs/ does not exist.
+    at Object.watch [as default] (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/node-watch/lib/watch.js:439:7)
+    at GitHubApp.onStart (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:123:12)
+    at new HostingBase (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:52:10)
+    at new GitHubApp (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubApp.ts:45:5)
+    at GitHubManager.getNewHostingPlatform (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubManager.ts:31:12)
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingManagerBase.ts:50:31
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:49:15
+    at Array.forEach (<anonymous>)
+    at EventHandlerMap.exec (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:48:11)
+    at AppEventManager.consume (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/AppEventManager.ts:107:38)
+name: "unhandledRejectionError"
+pid: 35959
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 20:20:56,012 ERROR 35959 nodejs.unhandledRejectionError: ./repo_configs/ does not exist.
+    at Object.watch [as default] (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/node-watch/lib/watch.js:439:7)
+    at GitLabApp.onStart (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:123:12)
+    at new HostingBase (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:52:10)
+    at new GitLabApp (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/gitlab/GitLabApp.ts:31:5)
+    at GitLabManager.getNewHostingPlatform (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/gitlab/GitLabManager.ts:31:12)
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingManagerBase.ts:50:31
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:49:15
+    at Array.forEach (<anonymous>)
+    at EventHandlerMap.exec (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:48:11)
+    at AppEventManager.consume (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/AppEventManager.ts:107:38)
+name: "unhandledRejectionError"
+pid: 35959
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 20:20:56,015 ERROR 35959 [host-github-component-service] Error while load components, e={}
+2021-09-27 20:20:56,015 ERROR 35959 [host-github] Sync hosting base components data error!
+2021-09-27 20:21:00,524 ERROR 35959 [host-MyGitLab-component-service] Error while load components, e={"status":401,"body":{"size":0,"timeout":0}}
+2021-09-27 20:21:00,524 ERROR 35959 [host-MyGitLab] Sync hosting base components data error!
+2021-09-27 20:22:37,686 ERROR 36001 [host-github-component-service] Error while load components, e={}
+2021-09-27 20:22:37,687 ERROR 36001 [host-github] Sync hosting base components data error!
+2021-09-27 20:27:36,532 ERROR 36054 [host-github-component-service] Error while load components, e=TypeError: Cannot read property 'file' of undefined
+2021-09-27 20:27:36,532 ERROR 36054 [host-github] Sync hosting base components data error!
+2021-09-27 20:34:07,443 ERROR 36129 nodejs.HttpError: Integration not found
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/request/dist-src/fetch-wrapper.js:49:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at GitHubApp.getInstalledRepos (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubApp.ts:65:27)
+    at GitHubApp.syncData (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:156:19)
+name: "HttpError"
+status: 404
+headers: {"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Mon, 27 Sep 2021 12:34:07 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","vary":"Accept-Encoding, Accept, X-Requested-With","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; param=machine-man-preview; format=json","x-github-request-id":"D545:2AB3:498E3B:4ED594:6151BA2B","x-xss-protection":"0"}
+request: {"method":"GET","url":"https://api.github.com/app/installations","headers":{"accept":"application/vnd.github.machine-man-preview+json","user-agent":"octokit.js/16.35.0 Node.js/14.13.0 (macOS Catalina; x64)","authorization":"Bearer [REDACTED]"},"request":{"validate":{"page":{"type":"integer"},"per_page":{"type":"integer"}}}}
+documentation_url: "https://docs.github.com/rest"
+pid: 36129
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 20:36:03,627 ERROR 36194 nodejs.HttpError: Integration not found
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/request/dist-src/fetch-wrapper.js:49:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at GitHubApp.getInstalledRepos (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubApp.ts:65:27)
+    at GitHubApp.syncData (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingBase.ts:156:19)
+name: "HttpError"
+status: 404
+headers: {"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Mon, 27 Sep 2021 12:36:03 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","vary":"Accept-Encoding, Accept, X-Requested-With","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; param=machine-man-preview; format=json","x-github-request-id":"D743:7668:F339C3:10037C1:6151BAB3","x-xss-protection":"0"}
+request: {"method":"GET","url":"https://api.github.com/app/installations","headers":{"accept":"application/vnd.github.machine-man-preview+json","user-agent":"octokit.js/16.35.0 Node.js/14.13.0 (macOS Catalina; x64)","authorization":"Bearer [REDACTED]"},"request":{"validate":{"page":{"type":"integer"},"per_page":{"type":"integer"}}}}
+documentation_url: "https://docs.github.com/rest"
+pid: 36194
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 20:44:17,939 ERROR 36255 nodejs.TypeError: secret, eventPayload & signature required (uncaughtException throw 1 times on pid:36255)
+    at verify (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/webhooks/verify/index.js:10:11)
+    at verifyAndReceive (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/webhooks/middleware/verify-and-receive.js:6:28)
+    at EventSource.source.onmessage (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubApp.ts:118:23)
+    at EventSource.emit (events.js:314:20)
+    at _emit (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:242:17)
+    at parseEventStreamLine (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:257:9)
+    at IncomingMessage.<anonymous> (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:217:11)
+    at IncomingMessage.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:307:12)
+    at readableAddChunk (_stream_readable.js:282:9)
+
+pid: 36255
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 20:46:38,227 ERROR 36350 nodejs.TypeError: secret, eventPayload & signature required (uncaughtException throw 1 times on pid:36350)
+    at verify (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/webhooks/verify/index.js:10:11)
+    at verifyAndReceive (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/webhooks/middleware/verify-and-receive.js:6:28)
+    at EventSource.source.onmessage (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubApp.ts:118:23)
+    at EventSource.emit (events.js:314:20)
+    at _emit (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:242:17)
+    at parseEventStreamLine (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:257:9)
+    at IncomingMessage.<anonymous> (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/eventsource/lib/eventsource.js:217:11)
+    at IncomingMessage.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:307:12)
+    at readableAddChunk (_stream_readable.js:282:9)
+
+pid: 36350
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 21:29:51,350 ERROR 36629 [translate-app] Error happened when translate. err="No target language specified. Must be a string", src=en
+2021-09-27 21:29:51,377 ERROR 36629 nodejs.TypeError: Cannot read property 'translatedText' of undefined
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/LuaService.ts:588:22
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 36629
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 21:42:30,871 ERROR 36760 nodejs.TypeError: Cannot read property 'split' of null
+    at CommandService.getCommandsFromBody (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/CommandService.ts:263:24)
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/CommandService.ts:42:31
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:49:15
+    at Array.forEach (<anonymous>)
+    at EventHandlerMap.exec (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/EventHandlerMap.ts:48:11)
+    at EventManager.consume (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/basic/HostingPlatform/HostingClientService/EventManager.ts:61:36)
+    at AppEventManager.consume (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/event-manager/AppEventManager.ts:94:39)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 36760
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 22:27:05,843 ERROR 37058 nodejs.HttpError: Validation Failed: {"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/request/dist-src/fetch-wrapper.js:49:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at GitHubClient.addIssueComment (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubClient.ts:210:5)
+name: "HttpError"
+status: 422
+headers: {"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset","connection":"close","content-length":"233","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Mon, 27 Sep 2021 14:27:05 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","vary":"Accept-Encoding, Accept, X-Requested-With","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"C059:9051:1AC787:1F918D:6151D4B9","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4985","x-ratelimit-reset":"1632753660","x-ratelimit-resource":"core","x-ratelimit-used":"15","x-xss-protection":"0"}
+request: {"method":"POST","url":"https://api.github.com/repos/JingbenShi668/lab/issues/28/comments","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.35.0 Node.js/14.13.0 (macOS Catalina; x64)","authorization":"token [REDACTED]","content-type":"application/json; charset=utf-8"},"body":"{\"body\":\"\"}","request":{"validate":{"body":{"required":true,"type":"string"},"issue_number":{"required":true,"type":"integer"},"number":{"alias":"issue_number","deprecated":true,"type":"integer"},"owner":{"required":true,"type":"string"},"repo":{"required":true,"type":"string"}}}}
+errors: [{"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}]
+documentation_url: "https://docs.github.com/rest/reference/issues#create-an-issue-comment"
+pid: 37058
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 22:33:20,537 ERROR 37106 nodejs.HttpError: Validation Failed: {"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/request/dist-src/fetch-wrapper.js:49:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at GitHubClient.addIssueComment (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubClient.ts:210:5)
+name: "HttpError"
+status: 422
+headers: {"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset","connection":"close","content-length":"233","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Mon, 27 Sep 2021 14:33:20 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","vary":"Accept-Encoding, Accept, X-Requested-With","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"C277:2AAF:EAB46:135506:6151D62F","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4977","x-ratelimit-reset":"1632753660","x-ratelimit-resource":"core","x-ratelimit-used":"23","x-xss-protection":"0"}
+request: {"method":"POST","url":"https://api.github.com/repos/JingbenShi668/lab/issues/29/comments","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.35.0 Node.js/14.13.0 (macOS Catalina; x64)","authorization":"token [REDACTED]","content-type":"application/json; charset=utf-8"},"body":"{\"body\":\"\"}","request":{"validate":{"body":{"required":true,"type":"string"},"issue_number":{"required":true,"type":"integer"},"number":{"alias":"issue_number","deprecated":true,"type":"integer"},"owner":{"required":true,"type":"string"},"repo":{"required":true,"type":"string"}}}}
+errors: [{"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}]
+documentation_url: "https://docs.github.com/rest/reference/issues#create-an-issue-comment"
+pid: 37106
+hostname: ShiJingBendeMacBook-Pro.local
+
+2021-09-27 22:42:50,058 ERROR 37215 nodejs.HttpError: Validation Failed: {"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}
+    at /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/@octokit/request/dist-src/fetch-wrapper.js:49:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at GitHubClient.addIssueComment (/Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/app/plugin/github/GitHubClient.ts:210:5)
+name: "HttpError"
+status: 422
+headers: {"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset","connection":"close","content-length":"233","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Mon, 27 Sep 2021 14:42:49 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","vary":"Accept-Encoding, Accept, X-Requested-With","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"C5DE:7667:A21739:AE8F2E:6151D869","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4996","x-ratelimit-reset":"1632757328","x-ratelimit-resource":"core","x-ratelimit-used":"4","x-xss-protection":"0"}
+request: {"method":"POST","url":"https://api.github.com/repos/JingbenShi668/lab/issues/31/comments","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.35.0 Node.js/14.13.0 (macOS Catalina; x64)","authorization":"token [REDACTED]","content-type":"application/json; charset=utf-8"},"body":"{\"body\":\"\"}","request":{"validate":{"body":{"required":true,"type":"string"},"issue_number":{"required":true,"type":"integer"},"number":{"alias":"issue_number","deprecated":true,"type":"integer"},"owner":{"required":true,"type":"string"},"repo":{"required":true,"type":"string"}}}}
+errors: [{"resource":"IssueComment","code":"unprocessable","field":"data","message":"Body cannot be blank"}]
+documentation_url: "https://docs.github.com/rest/reference/issues#create-an-issue-comment"
+pid: 37215
+hostname: ShiJingBendeMacBook-Pro.local
+

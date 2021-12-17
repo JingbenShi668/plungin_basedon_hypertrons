@@ -1,0 +1,174 @@
+2021-09-27 20:19:32,938 INFO 35817 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 29427065ms at 2021-09-28 04:30:00.003
+2021-09-27 20:19:32,938 INFO 35817 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 13227062ms at 2021-09-28 00:00:00.000
+2021-09-27 20:19:32,938 INFO 35817 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13228062ms at 2021-09-28 00:00:01.000
+2021-09-27 20:19:32,757 INFO 35837 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:19:32,757 INFO 35837 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:19:32,757 INFO 35837 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:20:55,939 INFO 35958 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 29344063ms at 2021-09-28 04:30:00.002
+2021-09-27 20:20:55,940 INFO 35958 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 13144060ms at 2021-09-28 00:00:00.000
+2021-09-27 20:20:55,940 INFO 35958 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13145060ms at 2021-09-28 00:00:01.000
+2021-09-27 20:20:55,836 INFO 35959 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:20:55,836 INFO 35959 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:20:55,836 INFO 35959 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:22:37,644 INFO 36000 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 29242359ms at 2021-09-28 04:30:00.003
+2021-09-27 20:22:37,644 INFO 36000 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 13042356ms at 2021-09-28 00:00:00.000
+2021-09-27 20:22:37,645 INFO 36000 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13043356ms at 2021-09-28 00:00:01.001
+2021-09-27 20:22:37,537 INFO 36001 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:22:37,537 INFO 36001 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:22:37,537 INFO 36001 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:27:36,490 INFO 36053 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28943512ms at 2021-09-28 04:30:00.002
+2021-09-27 20:27:36,490 INFO 36053 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12743510ms at 2021-09-28 00:00:00.000
+2021-09-27 20:27:36,490 INFO 36053 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12744510ms at 2021-09-28 00:00:01.000
+2021-09-27 20:27:36,391 INFO 36054 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:27:36,391 INFO 36054 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:27:36,391 INFO 36054 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:31:10,929 INFO 36085 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28729074ms at 2021-09-28 04:30:00.003
+2021-09-27 20:31:10,929 INFO 36085 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12529071ms at 2021-09-28 00:00:00.000
+2021-09-27 20:31:10,929 INFO 36085 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12530071ms at 2021-09-28 00:00:01.000
+2021-09-27 20:31:10,826 INFO 36086 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:31:10,826 INFO 36086 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:31:10,826 INFO 36086 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:33:42,620 INFO 36126 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28577383ms at 2021-09-28 04:30:00.003
+2021-09-27 20:33:42,620 INFO 36126 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12377380ms at 2021-09-28 00:00:00.000
+2021-09-27 20:33:42,621 INFO 36126 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12378380ms at 2021-09-28 00:00:01.001
+2021-09-27 20:33:42,505 INFO 36129 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:33:42,505 INFO 36129 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:33:42,505 INFO 36129 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:36:02,836 INFO 36193 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28437167ms at 2021-09-28 04:30:00.003
+2021-09-27 20:36:02,836 INFO 36193 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12237164ms at 2021-09-28 00:00:00.000
+2021-09-27 20:36:02,836 INFO 36193 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12238164ms at 2021-09-28 00:00:01.000
+2021-09-27 20:36:02,743 INFO 36194 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:36:02,743 INFO 36194 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:36:02,743 INFO 36194 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:38:48,117 INFO 36254 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28271885ms at 2021-09-28 04:30:00.002
+2021-09-27 20:38:48,117 INFO 36254 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 12071883ms at 2021-09-28 00:00:00.000
+2021-09-27 20:38:48,118 INFO 36254 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12072883ms at 2021-09-28 00:00:01.001
+2021-09-27 20:38:48,043 INFO 36255 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:38:48,043 INFO 36255 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:38:48,043 INFO 36255 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:45:53,204 INFO 36349 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 27846798ms at 2021-09-28 04:30:00.002
+2021-09-27 20:45:53,205 INFO 36349 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 11646796ms at 2021-09-28 00:00:00.001
+2021-09-27 20:45:53,205 INFO 36349 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 11647795ms at 2021-09-28 00:00:01.000
+2021-09-27 20:45:53,085 INFO 36350 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:45:53,085 INFO 36350 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:45:53,085 INFO 36350 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:50:38,093 INFO 36388 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 20:50:38,093 INFO 36388 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 20:50:38,093 INFO 36388 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 20:50:38,234 INFO 36386 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 27561771ms at 2021-09-28 04:30:00.005
+2021-09-27 20:50:38,234 INFO 36386 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 11361766ms at 2021-09-28 00:00:00.000
+2021-09-27 20:50:38,235 INFO 36386 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 11362766ms at 2021-09-28 00:00:01.001
+2021-09-27 21:01:51,080 INFO 36431 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:01:51,080 INFO 36431 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:01:51,080 INFO 36431 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:02:06,221 INFO 36446 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:02:06,221 INFO 36446 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:02:06,221 INFO 36446 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:15:00,896 INFO 36546 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26099107ms at 2021-09-28 04:30:00.003
+2021-09-27 21:15:00,896 INFO 36546 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9899104ms at 2021-09-28 00:00:00.000
+2021-09-27 21:15:00,896 INFO 36546 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9900104ms at 2021-09-28 00:00:01.000
+2021-09-27 21:15:00,777 INFO 36550 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:15:00,777 INFO 36550 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:15:00,777 INFO 36550 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:21:03,446 INFO 36577 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:21:03,446 INFO 36577 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:21:03,446 INFO 36577 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:21:20,376 INFO 36597 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25719627ms at 2021-09-28 04:30:00.003
+2021-09-27 21:21:20,376 INFO 36597 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9519624ms at 2021-09-28 00:00:00.000
+2021-09-27 21:21:20,376 INFO 36597 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9520624ms at 2021-09-28 00:00:01.000
+2021-09-27 21:21:20,274 INFO 36601 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:21:20,274 INFO 36601 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:21:20,274 INFO 36601 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:29:13,000 INFO 36629 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:29:13,000 INFO 36629 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:29:13,000 INFO 36629 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:30:56,488 INFO 36651 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:30:56,488 INFO 36651 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:30:56,488 INFO 36651 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:34:02,031 INFO 36675 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:34:02,031 INFO 36675 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:34:02,031 INFO 36675 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:35:18,634 INFO 36687 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:35:18,634 INFO 36687 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:35:18,634 INFO 36687 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:35:43,925 INFO 36693 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:35:43,925 INFO 36693 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:35:43,925 INFO 36693 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:36:08,278 INFO 36702 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:36:08,278 INFO 36702 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:36:08,278 INFO 36702 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:37:11,726 INFO 36707 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:37:11,726 INFO 36707 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:37:11,726 INFO 36707 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:38:02,988 INFO 36719 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:38:02,988 INFO 36719 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:38:02,988 INFO 36719 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:38:08,483 INFO 36722 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:38:08,483 INFO 36722 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:38:08,483 INFO 36722 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:40:38,707 INFO 36732 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:40:38,707 INFO 36732 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:40:38,707 INFO 36732 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:40:57,934 INFO 36742 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:40:57,934 INFO 36742 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:40:57,934 INFO 36742 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:41:39,947 INFO 36748 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:41:39,947 INFO 36748 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:41:39,947 INFO 36748 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:41:43,355 INFO 36757 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:41:43,355 INFO 36757 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:41:43,355 INFO 36757 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:42:08,888 INFO 36760 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:42:08,888 INFO 36760 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:42:08,888 INFO 36760 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 21:43:53,706 INFO 36769 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 21:43:53,706 INFO 36769 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 21:43:53,706 INFO 36769 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:02:33,257 INFO 36934 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:02:33,257 INFO 36934 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:02:33,257 INFO 36934 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:26:42,080 INFO 37058 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:26:42,080 INFO 37058 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:26:42,080 INFO 37058 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:31:16,532 INFO 37094 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:31:16,532 INFO 37094 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:31:16,532 INFO 37094 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:32:24,167 INFO 37098 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:32:24,167 INFO 37098 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:32:24,167 INFO 37098 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:33:00,295 INFO 37106 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:33:00,295 INFO 37106 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:33:00,295 INFO 37106 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:34:29,184 INFO 37114 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:34:29,184 INFO 37114 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:34:29,184 INFO 37114 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:39:24,347 INFO 37165 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:39:24,347 INFO 37165 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:39:24,347 INFO 37165 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:39:29,600 INFO 37170 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:39:29,600 INFO 37170 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:39:29,600 INFO 37170 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:39:34,729 INFO 37174 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:39:34,729 INFO 37174 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:39:34,729 INFO 37174 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:40:32,280 INFO 37180 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:40:32,280 INFO 37180 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:40:32,280 INFO 37180 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:40:47,372 INFO 37187 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:40:47,372 INFO 37187 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:40:47,372 INFO 37187 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:42:06,495 INFO 37214 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20873507ms at 2021-09-28 04:30:00.002
+2021-09-27 22:42:06,495 INFO 37214 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4673505ms at 2021-09-28 00:00:00.000
+2021-09-27 22:42:06,496 INFO 37214 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4674504ms at 2021-09-28 00:00:01.000
+2021-09-27 22:42:06,409 INFO 37215 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:42:06,409 INFO 37215 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:42:06,409 INFO 37215 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-27 22:43:57,625 INFO 37224 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-27 22:43:57,625 INFO 37224 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-27 22:43:57,625 INFO 37224 [egg-schedule]: register schedule /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-28 00:00:00,096 INFO 37214 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86399905ms at 2021-09-29 00:00:00.001
+2021-09-28 00:00:00,095 INFO 37224 [Job#163275840009528764935020566481] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2021-09-28 00:00:00,097 INFO 37224 [Job#163275840009528764935020566481] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 1ms
+2021-09-28 00:00:01,091 INFO 37224 [Job#163275840109028764944975758251] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2021-09-28 00:00:01,096 INFO 37224 [Job#163275840109028764944975758251] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms
+2021-09-28 00:00:01,094 INFO 37214 [Timer] /Users/ben/mydata/gitHubDir/ben-open-digger/hypertrons/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399910ms at 2021-09-29 00:00:01.004
